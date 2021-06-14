@@ -11,7 +11,7 @@
 <p align="justify"> 
 Projeto desenvolvido ao longo do Bootcamp Avanade Angular Developer, sendo ministrado pelo João Victor Ghignatti, este projeto exibi os dados consultados em uma api de previsão de tempo. O objetivo é evoluir no Angular, aprendendo uma forma avançada de gerenciamento de estado com NGRX, práticas e padrões de desenvolvimento, acompanhados de algumas APIs úteis que o Angular tem.
 </p>
-## Funcionalidades :
+## Funcionalidades:
 
 - Consumir dados de uma api de previsão de tempo.
 - Pesquisar pela previsão de tempo de uma cidade por autocomplete ou não
