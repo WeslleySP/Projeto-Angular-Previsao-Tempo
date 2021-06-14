@@ -11,13 +11,14 @@
 <p align="justify"> 
 Projeto desenvolvido ao longo do Bootcamp Avanade Angular Developer, sendo ministrado pelo João Victor Ghignatti, este projeto exibi os dados consultados em uma api de previsão de tempo. O objetivo é evoluir no Angular, aprendendo uma forma avançada de gerenciamento de estado com NGRX, práticas e padrões de desenvolvimento, acompanhados de algumas APIs úteis que o Angular tem.
 </p>
-## Funcionalidades :checkered_flag:
-- [X] Consumir dados de uma api de previsão de tempo
-- [X] Pesquisar pela previsão de tempo de uma cidade por autocomplete ou não
-- [X] Visualizar detalhes 
-- [X] Adicionar/remover uma cidade dos favoritos
-- [X] Listar as previsões de tempo de uma cidade 
-- [X] Mostrar os graus em Kelvin, Fahrenheit ou Celsius
+## Funcionalidades :
+
+- Consumir dados de uma api de previsão de tempo.
+- Pesquisar pela previsão de tempo de uma cidade por autocomplete ou não
+- Visualizar detalhes 
+- Adicionar/remover uma cidade dos favoritos
+- Listar as previsões de tempo de uma cidade 
+- Mostrar os graus em Kelvin, Fahrenheit ou Celsius
 
 ## Ferramentas utilizadas:
   - Angular
